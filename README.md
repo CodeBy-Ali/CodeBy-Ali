@@ -12,7 +12,7 @@ I am a passionate self-taught programmer driven by curiosity and a relentless pu
 - ✍️ Passionate about writing and documenting my journey and discoveries in technology.
 
 
-## Tech Stack
+## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,ts,nodejs&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
