@@ -14,7 +14,7 @@ I'm a passionate self-taught programmer driven by curiosity and a relentless pur
 
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,ts,nodejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,react,nodejs&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
