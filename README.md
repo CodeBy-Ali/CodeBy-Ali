@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad ALi Hassan! 👋
 
-I am a passionate self-taught programmer driven by curiosity and a relentless pursuit of knowledge in the field of computer science and technology. My journey is marked by explorations into various programming languages, frameworks, and cutting-edge technologies, all fueled by a deep-seated enthusiasm for problem-solving and innovation.
+##### I'm a passionate self-taught programmer driven by curiosity and a relentless pursuit of knowledge in computer science and technology. I explore various programming languages, frameworks, and cutting-edge technologies with a deep enthusiasm for problem-solving and innovation.
 
 ![CodeBy-Ali's Stats](https://github-readme-stats.vercel.app/api?username=CodeBy-Ali&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
