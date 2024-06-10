@@ -1,3 +1,5 @@
+<center><a href="https://twitter.com/larymak1" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/hillary-nyakundi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
+
 # Hi, I'm Muhammad ALi Hassan! 👋
 
 I'm a passionate self-taught programmer driven by curiosity and a relentless pursuit of knowledge in computer science and technology. I explore various programming languages, frameworks, and cutting-edge technologies with a deep enthusiasm for problem-solving and innovation.
