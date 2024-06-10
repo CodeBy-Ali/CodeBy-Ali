@@ -33,7 +33,15 @@ I'm a passionate self-taught programmer driven by curiosity and a relentless pur
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/)
+### Connect with me:
+
+<p align="left">  
+<a href="" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+<a href="" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+<a href="mailto:muhammadalihassanofficial@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+</p>
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
